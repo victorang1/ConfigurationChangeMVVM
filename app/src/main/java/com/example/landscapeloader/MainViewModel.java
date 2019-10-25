@@ -1,15 +1,9 @@
 package com.example.landscapeloader;
 
-import android.arch.lifecycle.LiveData;
 import android.arch.lifecycle.MutableLiveData;
 import android.arch.lifecycle.ViewModel;
-import android.os.Bundle;
 import android.os.Handler;
-import android.util.Log;
-
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.List;
 
 public class MainViewModel extends ViewModel {
 

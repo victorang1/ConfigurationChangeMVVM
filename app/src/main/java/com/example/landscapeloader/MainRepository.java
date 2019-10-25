@@ -1,9 +1,6 @@
 package com.example.landscapeloader;
 
-import android.arch.lifecycle.MutableLiveData;
-
 import java.util.ArrayList;
-import java.util.List;
 
 public class MainRepository {
 
